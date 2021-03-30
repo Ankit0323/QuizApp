@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/astronomy"
+    android:layout_height="match_parent"
+    tools:context=".champions">
+
+    <TextView
+        android:layout_marginTop="80dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="RESULT"
+        android:textSize="25dp"
+        android:textColor="@color/blue"
+        android:textStyle="bold">
+
+    </TextView>
+    <ImageView
+        android:layout_marginTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/champs">
+
+    </ImageView>
+    <TextView
+        android:layout_marginTop="30dp"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="Congratulation"
+        android:textSize="30dp"
+        android:textColor="@color/green"
+        android:textStyle="bold">
+
+    </TextView>
+    <TextView
+        android:id="@+id/final1"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="Username"
+        android:textSize="25dp"
+        android:textColor="@color/green"
+        android:textStyle="bold">
+
+    </TextView>
+    <TextView
+        android:id="@+id/final2"
+        android:layout_marginBottom="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="your score"
+        android:textSize="25dp"
+        android:textColor="@color/green"
+        android:textStyle="bold">
+
+    </TextView>
+    <Button
+        android:id="@+id/btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="25dp"
+        android:text="FINISH"
+        android:textSize="30dp"
+        android:backgroundTint="@color/blue"
+        android:onClick="setClick">
+
+    </Button>
+
+</LinearLayout>
