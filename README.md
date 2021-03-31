@@ -18,3 +18,6 @@ Results   – displays Results and score after finishing the quiz.
 ![Screenshot_2021-03-30-22-51-16-720_com example quizapp](https://user-images.githubusercontent.com/81551733/113189553-f0495280-9278-11eb-93ad-7f09d4c10014.jpg)&nbsp; &nbsp; &nbsp; 
 ![Screenshot_2021-03-30-22-51-30-427_com example quizapp](https://user-images.githubusercontent.com/81551733/113189561-f2abac80-9278-11eb-9001-3ba1f2014b69.jpg)&nbsp; &nbsp; &nbsp; 
 ![Screenshot_2021-03-30-22-51-57-973_com example quizapp](https://user-images.githubusercontent.com/81551733/113189566-f50e0680-9278-11eb-8b7e-3043831823a7.jpg)&nbsp; &nbsp; &nbsp; 
+![IMG_20210330_225301](https://user-images.githubusercontent.com/81551733/113190117-96955800-9279-11eb-92b4-78028d9936ff.jpg)&nbsp; &nbsp; &nbsp; 
+![IMG_20210331_232342](https://user-images.githubusercontent.com/81551733/113190130-98f7b200-9279-11eb-8b9a-d12f86c94c48.jpg)
+
