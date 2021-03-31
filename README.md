@@ -19,5 +19,4 @@ Results   – displays Results and score after finishing the quiz.
 ![Screenshot_2021-03-30-22-51-30-427_com example quizapp](https://user-images.githubusercontent.com/81551733/113189561-f2abac80-9278-11eb-9001-3ba1f2014b69.jpg)&nbsp; &nbsp; &nbsp; 
 ![Screenshot_2021-03-30-22-51-57-973_com example quizapp](https://user-images.githubusercontent.com/81551733/113189566-f50e0680-9278-11eb-8b7e-3043831823a7.jpg)&nbsp; &nbsp; &nbsp; 
 ![Screenshot_2021-03-31-23-36-10-021_com example quizapp](https://user-images.githubusercontent.com/81551733/113190742-4f5b9700-927a-11eb-8d7d-334a0fc59abb.jpg)&nbsp; &nbsp; &nbsp; 
-
 ![Screenshot_2021-03-31-23-35-48-459_com example quizapp](https://user-images.githubusercontent.com/81551733/113190733-4d91d380-927a-11eb-9c66-498070572bb1.jpg)
