@@ -6,8 +6,8 @@ QuizApp is an android based application, and enables the user to undertake a ser
 
 There are four Activities in the app :\
 
-Main      – displays Home Screen of application.\
-Questions – displays MCQ’s and currents Score.\
+Main      – displays Home Screen where user can enter their name.\
+Questions – displays image and shows correct answer.\
 Skip      - user can skip question if he don't know the answer\
-Results   – displays Results after finishing the quiz.\
+Results   – displays Results and score after finishing the quiz.\
 ## Video Tutorial
